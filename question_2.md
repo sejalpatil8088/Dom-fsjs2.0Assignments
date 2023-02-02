@@ -22,7 +22,8 @@ changemenu.innerText = "Projects";
 ## Task-2
 ## Adding accordian
 output:-
-![output7](https://user-images.githubusercontent.com/119742317/216394768-45ab6e86-effc-4fc0-96c5-799dfce8b153.png)
+![output7](https://user-images.githubusercontent.com/119742317/216395694-18050057-0bf5-4e65-b841-fc1f64a5d854.png)
+
 ```
 // Adding accordian
 
