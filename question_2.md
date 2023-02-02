@@ -1,7 +1,6 @@
 # Assignment-2
 ## Questin 2 Main Preview
-![output1](https://user-images.githubusercontent.com/119742317/216397014-b12508e0-a6e7-46a8-ba2f-3d521631f905.png)
-
+![output1](https://user-images.githubusercontent.com/119742317/216397279-d5cb33a8-b25c-4f50-b42f-ffc0e5925877.png)
 
 ## Task-1
 ## Changing Accordian background color.
