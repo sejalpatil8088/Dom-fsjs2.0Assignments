@@ -1,6 +1,6 @@
 # Assignment-2
 ## Main Preview
-![ass2](https://user-images.githubusercontent.com/119742317/216622544-e796e450-1d27-41ca-a519-4e9906cb6d59.png)
+![Dom2](https://user-images.githubusercontent.com/119742317/216623257-54266cf3-db08-46e4-8207-3584af71d8e7.png)
 
 
 ## Task-1
