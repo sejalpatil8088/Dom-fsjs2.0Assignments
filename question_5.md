@@ -21,6 +21,8 @@ button.style.cursor = "pointer";
 ```
 
 output:-
+![output](https://user-images.githubusercontent.com/97457589/215745032-03cbec88-f1f2-437f-a6c0-1b6aefd8d26d.png)
+
 ```
 // adding Receipe
 let recipesList = document.querySelector(".recipes-container .tags-container div")
