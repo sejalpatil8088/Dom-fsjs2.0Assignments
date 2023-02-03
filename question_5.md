@@ -1,9 +1,11 @@
 # Assignment-5
 ## Main Preview
+![orignal](https://user-images.githubusercontent.com/97457589/215742895-cb0662b3-85c0-4811-9ace-9b0f0c666062.png)
 
 ## Task:-
-##Add a button inside header [Pro Subscription], adding a recipes card and change copyright text
+## Add a button inside header [Pro Subscription], adding a recipes card and change copyright text
 output:-
+![DOM P2 SS](https://user-images.githubusercontent.com/97457589/215744447-a6172f77-9ad4-4709-9adf-7cfc6d5f2e32.png)
 
 
 ```
