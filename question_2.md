@@ -1,7 +1,4 @@
 # Assignment-2
-## Main Preview
-![Dom2](https://user-images.githubusercontent.com/119742317/216623257-54266cf3-db08-46e4-8207-3584af71d8e7.png)
-
 
 ## Task-1
 ## Changing Accordian background color.
