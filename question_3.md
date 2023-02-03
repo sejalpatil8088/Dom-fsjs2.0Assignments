@@ -1,6 +1,5 @@
 # Assignment-3
-## Main Preview
-![ass3](https://user-images.githubusercontent.com/119742317/216624900-365f47f6-4837-4f51-9f7e-2325bf29b8ee.png)
+
 ## Task-1
 ## Adding [hire me] button inside nav menu, change nav [Contact] buuton to [Projects] and Removeing footer social icons.
 output:-
