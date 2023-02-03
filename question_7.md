@@ -1,10 +1,13 @@
 # Assignment-6
 ## Main Preview
+![orignal](https://user-images.githubusercontent.com/97457589/215985068-64568524-f37c-4ce7-bbc6-648322e51b74.png)
 
 
 ## Task:-
 ## Remove the languages that have 2.0 in their name and Use JavaScript to write something in the input box and submit the form. This should refresh the page and the languages in the left card should come back.
 output:-
+![ass7 1-after](https://user-images.githubusercontent.com/97457589/215985637-a61bab86-4fa8-47ac-a11e-0ce27d17c32e.png) 
+
 
 ```
 // Removeing the languages that have 2.0 in their name
