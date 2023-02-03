@@ -1,10 +1,10 @@
 # Assignment-5
 ## Main Preview
-![ass5](https://user-images.githubusercontent.com/119742317/216635556-71d7c0f2-d076-4436-af3e-f2782e4e8643.png)
+
 ## Task:-
-Add a button inside header [Pro Subscription], adding a recipes card and change copyright text
+##Add a button inside header [Pro Subscription], adding a recipes card and change copyright text
 output:-
-![output5](https://user-images.githubusercontent.com/119742317/216636268-41cc3550-6d12-4e23-a467-697649e35f78.png)
+
 
 ```
 // add button
@@ -16,7 +16,10 @@ let proSubcription = document.querySelector(".navbar .nav-center div:last-child"
 proSubcription.appendChild(button);
 button.classList.add("btn");
 button.style.cursor = "pointer";
+```
 
+output:-
+```
 // adding Receipe
 let recipesList = document.querySelector(".recipes-container .tags-container div")
 
