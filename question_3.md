@@ -1,9 +1,10 @@
 # Assignment-3
 
-## Task-1
+## Task:-
 ## Adding [hire me] button inside nav menu, change nav [Contact] buuton to [Projects] and Removeing footer social icons.
 output:-
-![output3](https://user-images.githubusercontent.com/119742317/216625452-5cd86065-6a60-48b5-b1a3-b396a6afcb2d.png)
+![ass3](https://user-images.githubusercontent.com/119742317/216661128-0a79640f-a769-40d7-93e0-503bc9916f8b.png)
+
 
 
 ```
