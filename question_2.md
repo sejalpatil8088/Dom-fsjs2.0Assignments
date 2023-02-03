@@ -1,4 +1,6 @@
 # Assignment-2
+## Main Preview
+![orignal](https://user-images.githubusercontent.com/97457589/215530350-ee60d7cf-1985-4135-9a71-0fa3330d7be9.png)
 
 ## Task-1
 ## Changing Accordian background color.
