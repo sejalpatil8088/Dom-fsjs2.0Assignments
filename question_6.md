@@ -13,7 +13,7 @@ output:-
 let logo = document.querySelector("header img");
 logo.src = "./assets/ineuron-logo.png";
 
-``
+```
 ## Task-2
 ## Change Price
 output:-
